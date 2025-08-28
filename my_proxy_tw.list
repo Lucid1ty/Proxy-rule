@@ -1,2 +1,3 @@
 # 以下域名走台湾节点
-# binance.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,hyperliquid.xyz
